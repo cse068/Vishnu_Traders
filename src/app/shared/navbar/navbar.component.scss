@@ -1,0 +1,30 @@
+
+.navs {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 50px;
+    overflow: hidden;
+    background-color:navy;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+      font-size: large;
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 20px 60px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color:greenyellow;
+  }
+  .cont{
+      text-align: center;
+      padding: 10px 30px;
+  }
